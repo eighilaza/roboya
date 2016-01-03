@@ -1,0 +1,15 @@
+{
+  "name": "roboya",
+  "version": "0.0.1",
+  "private": true,
+  "author": "eighilaza",
+  "description": "roboya chbab",
+  "dependencies": {
+    "hubot": "*",
+    "hubot-diagnostics": "*",
+    "hubot-help": "*",
+    "hubot-rules": "*",
+    "hubot-scripts": "*",
+    "hubot-lets-chat": "*"
+  }
+}
